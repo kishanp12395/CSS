@@ -1,0 +1,12 @@
+body{
+    color: red;
+}
+
+.container{
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: chartreuse;
+}

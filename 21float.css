@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+}.fav-music{
+    border: 10px solid green;
+}
+.mozart{
+    width: 45%;
+    border: 4px solid red;
+    float: left;
+    background-color: antiquewhite;
+}
+.beethoven{
+    width: 55%;
+    float:right;
+    background-color: springgreen;
+}
+.clearfix{
+    clear: both;
+}

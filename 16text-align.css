@@ -1,0 +1,19 @@
+h1{
+    background-color: aquamarine;
+    width: 500px;
+    /* text-align: center; */
+    text-align: right;
+    /* text-align: left; */
+    /* text-align: justify; */
+    padding-right: 50px;
+    box-sizing: border-box;
+}
+
+a{
+    background-color: coral;
+    width: 500px;
+    display: inline-block;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+}

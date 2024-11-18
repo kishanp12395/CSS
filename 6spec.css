@@ -1,0 +1,8 @@
+div#container ul.my-song li{
+    color: blue;
+    background-color: bisque;
+}
+div#container ul.my-song li.fav{
+    color: rgb(255, 13, 0);
+    background-color: rgb(116, 236, 243);
+}

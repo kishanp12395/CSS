@@ -1,0 +1,11 @@
+/* body :not(p){
+    color: palevioletred;
+} */
+
+div:empty{
+    height: 50px;
+    width: 50px;
+    background-color: bisque;
+    border: 3px solid rgb(98, 0, 255);
+    border-radius: 50px;
+}

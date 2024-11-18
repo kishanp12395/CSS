@@ -1,0 +1,25 @@
+body{
+    font-family: 'Times New Roman', Times, serif;    
+}
+
+.head h1{
+    background-color: gainsboro;
+    text-align: center;  
+    padding: 10px 0px;
+}
+
+section{
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+section h3{
+    text-transform: uppercase;
+    color: blue;
+}
+
+.container{
+    width: 1000px;
+    margin: 0px auto;
+}

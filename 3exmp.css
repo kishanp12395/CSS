@@ -1,0 +1,40 @@
+/* *{
+
+} */
+
+header{
+    background-color: tomato;
+}
+
+section.my-articles{
+    background-color: blanchedalmond;
+}
+
+header p{
+    color: yellow;
+}
+
+ul li{
+    list-style: none;
+}
+
+li a{
+    text-decoration: none;
+    color: rgb(243, 255, 254);
+}
+
+/* section.my-articles h2{
+    color: rgb(251, 0, 255);
+} */
+
+section.my-articles > h2{
+    color: #fb08ff;
+}
+
+h2 + p{
+    color: rgb(130, 148, 238);
+}
+
+ul + p{
+    color: rgb(0, 217, 255);
+}

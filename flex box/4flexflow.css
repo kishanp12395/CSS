@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-wrapper{
+    border: 10px solid black;
+    display: flex;
+    height: 400px;
+
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+
+    /* flex-flow: row wrap; */
+    flex-flow: column wrap;
+   
+    
+}
+
+.box{
+    border: 2px solid gray;
+    width: 500px;
+   
+   
+}
+
+.box-1{
+    background: lawngreen;
+}
+.box-2{
+    background: lightcoral;
+}
+.box-3{
+    background: fuchsia;
+}
+.box-4{
+    background: aqua;
+}
+.box-5{
+    background: rebeccapurple;
+}

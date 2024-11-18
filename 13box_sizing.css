@@ -1,0 +1,19 @@
+.box1{
+    width: 300px; /*width not change*/
+    box-sizing: border-box;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 10px solid rgb(0, 13, 255);
+    padding: 50px;
+}
+
+.box2{
+    width: 300px; /*width change*/
+    height: 200px;
+    background-color: red;
+    text-align: center;
+    border: 10px solid chartreuse;
+    padding: 50px;
+}

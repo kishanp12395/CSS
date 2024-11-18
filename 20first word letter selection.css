@@ -1,0 +1,15 @@
+p::first-letter{
+    font-size: 30px;
+    color: crimson;
+}
+
+::selection{
+    background: rgb(255, 170, 0);
+    color: blue;
+}
+
+p::after{
+    content: "kishan";
+    display: block;
+    clear: both;
+}

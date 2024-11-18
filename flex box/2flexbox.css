@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-wrapper{
+    border: 10px solid black;
+    height: 700px;
+    display: flex;
+
+    /* align-items: stretch; */
+    /* align-items: flex-start; */
+    /* align-items: flex-end; */
+    align-items: center;
+    
+
+   
+
+
+}
+
+.box{
+    border: 2px solid gray;
+   
+   
+}
+
+.box-1{
+    background: lawngreen;
+}
+.box-2{
+    background: lightcoral;
+}
+.box-3{
+    background: fuchsia;
+}
+.box-4{
+    background: aqua;
+}
+.box-5{
+    background: rebeccapurple;
+}

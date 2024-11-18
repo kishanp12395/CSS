@@ -1,0 +1,28 @@
+/* p:first-child{
+    color: blue;
+}
+
+p:first-of-type{
+    color: green;
+} */
+
+
+
+
+
+
+/* p:last-child{
+    background-color: blueviolet;
+} */
+
+/* p:last-of-type{
+    background-color: tomato;
+} */
+
+
+
+
+
+p:nth-child(2){
+    color: tomato;
+}
